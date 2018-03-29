@@ -1,3 +1,5 @@
 # Computer-Networks
 
-2 projects
+PA1 -> Instant Message App
+
+PA2 -> Implementing a Reliable Transfer Protocol over UDP
